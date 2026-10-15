@@ -1,6 +1,6 @@
 # Vaibhav Mohanty — AI/ML Portfolio
 
-**Live portfolio:** https://acidwave-portfolio.vercel.app
+**Live portfolio:** https://vaibhavmohanty-portfolio.vercel.app
 
 An original, interactive Acidwave portfolio containing 12 projects, including PRISM, ClaimPilot, Saarthi, and JARVIS.
 
