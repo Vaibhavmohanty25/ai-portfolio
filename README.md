@@ -1,5 +1,7 @@
 # Vaibhav Mohanty — AI/ML Portfolio
 
+**Live portfolio:** https://acidwave-portfolio.vercel.app
+
 An original, interactive Acidwave portfolio containing 12 projects, including PRISM, ClaimPilot, Saarthi, and JARVIS.
 
 ## Run locally
@@ -19,6 +21,6 @@ Edit `index.html` in Cursor. Search for `PROJECTS` to change project content, `X
 
 ## Deploy
 
-This repository is configured for static hosting on Vercel with no framework or build command. Deploy the repository root. No environment variables are needed.
+This repository is connected to Vercel. Push updates to `main` to deploy automatically. It uses static hosting with no framework, build command, or environment variables.
 
 GitHub: https://github.com/Vaibhavmohanty25/ai-portfolio
